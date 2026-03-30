@@ -56,10 +56,10 @@ export default function HomePage() {
 
           <h1 className="text-5xl md:text-7xl font-extrabold leading-tight max-w-4xl">
             Experience the
-            <br />
-            Pinnacle of
-            <br />
-            Performance
+                <br />
+                Freedom of
+                <br />
+                Driving
           </h1>
 
           <p className="mt-6 text-lg opacity-90 max-w-xl">
