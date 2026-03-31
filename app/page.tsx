@@ -54,14 +54,13 @@ export default function HomePage() {
        <div className="relative z-10 h-full pt-70 flex flex-col items-center justify-center text-center text-white px-6">
 
 
-          <h1 className="text-5xl md:text-7xl font-extrabold leading-tight max-w-4xl">
-            Experience the
-                <br />
-                Freedom of
-                <br />
-                Driving
-          </h1>
-
+      <h1 className="text-5xl md:text-7xl font-extrabold leading-tight max-w-4xl">
+  Discover the
+  <br />
+  <span className="text-blue-500">Power</span> of
+  <br />
+  Driving
+</h1>
           <p className="mt-6 text-lg opacity-90 max-w-xl">
             Discover a curated collection of world-class luxury vehicles tailored
             for the discerning driver.
