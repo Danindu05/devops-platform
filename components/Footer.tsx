@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-14 grid md:grid-cols-4 gap-10">
 
         <div>
-          <h3 className="text-lg font-bold mb-4">🚘 Ryder Rental</h3>
+          <h3 className="text-lg font-bold mb-4">Ryder Rental</h3>
           <p className="text-sm text-white/70">
             Premium vehicle rentals for drivers who demand performance and luxury.
           </p>
